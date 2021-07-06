@@ -28,7 +28,7 @@ body {
 .sidebar {
   grid-column: span 4;
   background-color: #fff;
-  border: 1px solid #e7e8ec;
+  border: 1px solid #000000;
   border-radius: 5px;
 }
 
